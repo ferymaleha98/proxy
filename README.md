@@ -1,5 +1,3 @@
-![CorsProxy](logo.png)
-
 > A proxy enabling CORS headers on responses, supporting most (maybe all?) HTTP verbs.
 
 # Usage
